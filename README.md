@@ -11,7 +11,7 @@ Course project in data analysis. Using real data set, this is a project for a un
 4. Figures saved in figures/
 
 ## Example Figures
-![Price vs Area](figures/price_vs_area.png)  
+![Price vs Area](figures/Price vs Area.pdf)  
 
 ## Presentation
 [Slides PDF](docs/London_Real_Estate_Presentation.pdf)
